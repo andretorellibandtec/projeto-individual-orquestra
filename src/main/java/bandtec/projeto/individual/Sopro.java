@@ -9,7 +9,7 @@ public class Sopro extends Instrumento {
 
     @Override
     public String sairSom() {
-        return "Tocando instrumento de Sopro";
+        return "Tocando instrumento de Sopro tcha tcha tcha tcha tcha";
     }
 
 }
